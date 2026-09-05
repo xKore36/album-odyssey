@@ -1,6 +1,5 @@
-// Preencha estes valores depois de criar o projeto no Supabase.
-// Com ambos vazios, o app funciona normalmente em modo local.
+// Configuração pública do Supabase para o Album Odyssey.
 window.APP_CONFIG = {
-  supabaseUrl: "",
-  supabaseAnonKey: ""
+  supabaseUrl: "https://ixemmgnywpilqmdwwodz.supabase.co",
+  supabaseAnonKey: "sb_publishable_Yftrd3DAIc_gFdUGrTISwQ_x_WaVhYD"
 };
