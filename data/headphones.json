@@ -1,0 +1,38 @@
+[
+  {
+    "id": "zero2",
+    "name": "7Hz x Crinacle Zero:2",
+    "short": "Zero:2",
+    "blurb": "Equilíbrio, timbre e subgrave controlado — ótima escolha para guitarras, metal clássico e mixes densas."
+  },
+  {
+    "id": "duonic",
+    "name": "KZ Duonic",
+    "short": "Duonic",
+    "blurb": "Apresentação energética e de impacto — casa muito bem com metalcore, breakdowns e produções modernas."
+  },
+  {
+    "id": "airpods",
+    "name": "AirPods Pro 2",
+    "short": "AirPods Pro 2",
+    "blurb": "Versatilidade, subgrave limpo e apresentação suave — forte em discos atmosféricos, pop/alt e camadas eletrônicas."
+  },
+  {
+    "id": "cmf",
+    "name": "CMF Buds 2 Plus",
+    "short": "CMF Buds 2 Plus",
+    "blurb": "Grave e energia — funciona especialmente bem em nu-metal, eletrônico, pop-metal e discos feitos para bater."
+  },
+  {
+    "id": "edx",
+    "name": "KZ EDX Pro",
+    "short": "EDX Pro",
+    "blurb": "V-shape divertido e ataque vivo — combina com punk, hard rock direto e gravações mais cruas."
+  },
+  {
+    "id": "h3",
+    "name": "QCY H3",
+    "short": "QCY H3",
+    "blurb": "Over-ear confortável e descontraído — bom para sessões longas, rock clássico e audições casuais."
+  }
+]
