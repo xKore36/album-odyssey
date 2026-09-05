@@ -1,0 +1,103 @@
+{
+  "albums": 500,
+  "artists": 316,
+  "decades": {
+    "1960s": 6,
+    "1970s": 25,
+    "1980s": 53,
+    "1990s": 72,
+    "2000s": 172,
+    "2010s": 113,
+    "2020s": 59
+  },
+  "top_genres": [
+    [
+      "alternative rock",
+      117
+    ],
+    [
+      "metalcore",
+      114
+    ],
+    [
+      "post-hardcore",
+      83
+    ],
+    [
+      "hard rock",
+      68
+    ],
+    [
+      "alternative metal",
+      63
+    ],
+    [
+      "heavy metal",
+      47
+    ],
+    [
+      "progressive metal",
+      34
+    ],
+    [
+      "emo",
+      32
+    ],
+    [
+      "thrash metal",
+      24
+    ],
+    [
+      "pop punk",
+      22
+    ],
+    [
+      "nu metal",
+      18
+    ],
+    [
+      "hardcore",
+      17
+    ],
+    [
+      "pop rock",
+      16
+    ],
+    [
+      "progressive rock",
+      15
+    ],
+    [
+      "grunge",
+      11
+    ],
+    [
+      "punk rock",
+      9
+    ],
+    [
+      "groove metal",
+      8
+    ],
+    [
+      "rock",
+      7
+    ],
+    [
+      "indie rock",
+      7
+    ],
+    [
+      "power metal",
+      6
+    ]
+  ],
+  "headphone_recommendations": {
+    "zero2": 263,
+    "duonic": 112,
+    "airpods": 93,
+    "cmf": 10,
+    "edx": 20,
+    "h3": 2
+  }
+}
